@@ -3,3 +3,5 @@ Esta linha foi recolocada no brach feature-2
 Esse file foi modificado localmente
 
 Essa linha foi adicionada no branch feature-2
+
+Outra modificação no branch feature-2
