@@ -1,3 +1,5 @@
-Apenas outro file criado no branch feature-1
+Esta linha foi recolocada no brach feature-2
 
 Esse file foi modificado localmente
+
+Essa linha foi adicionada no branch feature-2
